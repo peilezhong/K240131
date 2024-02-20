@@ -1,0 +1,156 @@
+{
+    "Summary": {
+        "YooVersion": "2.1.1",
+        "UnityVersion": "2022.3.16f1c1",
+        "BuildDate": "2024/2/15 21:01:00",
+        "BuildSeconds": 3,
+        "BuildTarget": 13,
+        "BuildMode": 0,
+        "BuildPipeline": "BuiltinBuildPipeline",
+        "BuildPackageName": "DefaultPackage",
+        "BuildPackageVersion": "5",
+        "UniqueBundleName": false,
+        "EnableAddressable": true,
+        "LocationToLower": false,
+        "IncludeAssetGUID": false,
+        "IgnoreDefaultType": true,
+        "AutoCollectShaders": true,
+        "EnableSharePackRule": false,
+        "EncryptionClassName": "null",
+        "FileNameStyle": 2,
+        "CompressOption": 2,
+        "DisableWriteTypeTree": false,
+        "IgnoreTypeTreeChanges": true,
+        "AssetFileTotalCount": 6,
+        "MainAssetTotalCount": 6,
+        "AllBundleTotalCount": 5,
+        "AllBundleTotalSize": 478729,
+        "EncryptedBundleTotalCount": 0,
+        "EncryptedBundleTotalSize": 0
+    },
+    "AssetInfos": [
+        {
+            "Address": "11",
+            "AssetPath": "Assets/Game/Art/1/11/11.png",
+            "AssetGUID": "f81ed21f691ecc644a5d661a1abb8690",
+            "AssetTags": [],
+            "MainBundleName": "assets_game_art_1_11.bundle",
+            "MainBundleSize": 106543,
+            "DependAssets": []
+        },
+        {
+            "Address": "12",
+            "AssetPath": "Assets/Game/Art/1/12/12.png",
+            "AssetGUID": "0d14d40543bf5c149acb8725088557ad",
+            "AssetTags": [],
+            "MainBundleName": "assets_game_art_1_12.bundle",
+            "MainBundleSize": 106548,
+            "DependAssets": []
+        },
+        {
+            "Address": "2",
+            "AssetPath": "Assets/Game/Art/2/2.png",
+            "AssetGUID": "04e2a8cbbdb5d894eb10af5a1dcbba1b",
+            "AssetTags": [],
+            "MainBundleName": "assets_game_art_2.bundle",
+            "MainBundleSize": 106535,
+            "DependAssets": []
+        },
+        {
+            "Address": "3",
+            "AssetPath": "Assets/Game/Art/3/3.png",
+            "AssetGUID": "34bd8bf65534a3b46811ee4aaec42401",
+            "AssetTags": [],
+            "MainBundleName": "assets_game_art_3_3.bundle",
+            "MainBundleSize": 106527,
+            "DependAssets": []
+        },
+        {
+            "Address": "Client.Game.dll",
+            "AssetPath": "Assets/HotDlls/Client.Game.dll.bytes",
+            "AssetGUID": "025a67711eb78e14dbf65beb3232761d",
+            "AssetTags": [],
+            "MainBundleName": "assets_hotdlls.bundle",
+            "MainBundleSize": 52576,
+            "DependAssets": []
+        },
+        {
+            "Address": "Client.Sunflower.dll",
+            "AssetPath": "Assets/HotDlls/Client.Sunflower.dll.bytes",
+            "AssetGUID": "80812e4a976e28544a0cc707369dc452",
+            "AssetTags": [],
+            "MainBundleName": "assets_hotdlls.bundle",
+            "MainBundleSize": 52576,
+            "DependAssets": []
+        }
+    ],
+    "BundleInfos": [
+        {
+            "BundleName": "assets_game_art_1_11.bundle",
+            "FileName": "assets_game_art_1_11_955cb5d3852c839d864a8e54dd468efd.bundle",
+            "FileHash": "955cb5d3852c839d864a8e54dd468efd",
+            "FileCRC": "0d30901e",
+            "FileSize": 106543,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundles": [],
+            "AllBuiltinAssets": [
+                "Assets/Game/Art/1/11/11.png"
+            ]
+        },
+        {
+            "BundleName": "assets_game_art_1_12.bundle",
+            "FileName": "assets_game_art_1_12_8b88c14a09d6814f96cdbb92645c13c5.bundle",
+            "FileHash": "8b88c14a09d6814f96cdbb92645c13c5",
+            "FileCRC": "64ba63a2",
+            "FileSize": 106548,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundles": [],
+            "AllBuiltinAssets": [
+                "Assets/Game/Art/1/12/12.png"
+            ]
+        },
+        {
+            "BundleName": "assets_game_art_2.bundle",
+            "FileName": "assets_game_art_2_5522d79693711516744ec793a0a85c85.bundle",
+            "FileHash": "5522d79693711516744ec793a0a85c85",
+            "FileCRC": "5b9a0f7b",
+            "FileSize": 106535,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundles": [],
+            "AllBuiltinAssets": [
+                "Assets/Game/Art/2/2.png"
+            ]
+        },
+        {
+            "BundleName": "assets_game_art_3_3.bundle",
+            "FileName": "assets_game_art_3_3_91fb011f1e6826f3c0ab1769c667f2a7.bundle",
+            "FileHash": "91fb011f1e6826f3c0ab1769c667f2a7",
+            "FileCRC": "c3e26db9",
+            "FileSize": 106527,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundles": [],
+            "AllBuiltinAssets": [
+                "Assets/Game/Art/3/3.png"
+            ]
+        },
+        {
+            "BundleName": "assets_hotdlls.bundle",
+            "FileName": "assets_hotdlls_b44799c44cec19da3ea15fbdec7c4625.bundle",
+            "FileHash": "b44799c44cec19da3ea15fbdec7c4625",
+            "FileCRC": "76c113b7",
+            "FileSize": 52576,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundles": [],
+            "AllBuiltinAssets": [
+                "Assets/HotDlls/Client.Game.dll.bytes",
+                "Assets/HotDlls/Client.Sunflower.dll.bytes"
+            ]
+        }
+    ],
+    "IndependAssets": []
+}

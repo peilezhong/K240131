@@ -1,0 +1,19 @@
+ManifestFileVersion: 0
+CRC: 3358734469
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: assets_game_art_1_11.bundle
+      Dependencies: {}
+    Info_1:
+      Name: assets_game_art_1_12.bundle
+      Dependencies: {}
+    Info_2:
+      Name: assets_game_art_2.bundle
+      Dependencies: {}
+    Info_3:
+      Name: assets_game_art_3_3.bundle
+      Dependencies: {}
+    Info_4:
+      Name: assets_hotdlls.bundle
+      Dependencies: {}

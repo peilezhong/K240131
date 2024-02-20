@@ -1,0 +1,30 @@
+{
+  "configAB": {
+    "Name": "normal_patch_config.patchab",
+    "Md5": "45710215DDDF594520890A8F02D45965"
+  },
+  "patchName2AB": {
+    "patch1": [
+      {
+        "Name": "patch1.patchab",
+        "Md5": "3A020019A1FA056036225A37A63E7C6E"
+      }
+    ],
+    "patch3": [
+      {
+        "Name": "patch3.patchab",
+        "Md5": "91469B7E13A0F9FA7EFA7DCDCE7F015D"
+      }
+    ],
+    "patch2": [
+      {
+        "Name": "patch2_11.patchab",
+        "Md5": "43CD55D96DBEF9B1445257657276B59D"
+      },
+      {
+        "Name": "patch2_12.patchab",
+        "Md5": "680B477F3847BBE66874C0A8DDDF909B"
+      }
+    ]
+  }
+}

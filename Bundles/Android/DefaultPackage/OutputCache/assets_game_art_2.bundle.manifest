@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 1225946116
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: d3db363b8e64de8989aee18f6d24506c
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2612ac43db082a73502ee80f2eceb73f
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: d3db363b8e64de8989aee18f6d24506c
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Game/Art/2/2.png
+Dependencies: []

@@ -1,0 +1,106 @@
+{
+    "FileVersion": "2.0.0",
+    "EnableAddressable": true,
+    "LocationToLower": false,
+    "IncludeAssetGUID": false,
+    "OutputNameStyle": 0,
+    "BuildPipeline": "BuiltinBuildPipeline",
+    "PackageName": "DefaultPackage",
+    "PackageVersion": "Simulate",
+    "AssetList": [
+        {
+            "Address": "11",
+            "AssetPath": "Assets/Game/Art/1/11/11.png",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 0
+        },
+        {
+            "Address": "12",
+            "AssetPath": "Assets/Game/Art/1/12/12.png",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 1
+        },
+        {
+            "Address": "2",
+            "AssetPath": "Assets/Game/Art/2/2.png",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 2
+        },
+        {
+            "Address": "3",
+            "AssetPath": "Assets/Game/Art/3/3.png",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 3
+        },
+        {
+            "Address": "Client.Game.dll",
+            "AssetPath": "Assets/HotDlls/Client.Game.dll.bytes",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 4
+        },
+        {
+            "Address": "Client.Sunflower.dll",
+            "AssetPath": "Assets/HotDlls/Client.Sunflower.dll.bytes",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 4
+        }
+    ],
+    "BundleList": [
+        {
+            "BundleName": "assets_game_art_1_11.bundle",
+            "UnityCRC": 0,
+            "FileHash": "00c6a164c1e9181d7badf5c51d8b3568",
+            "FileCRC": "00000000",
+            "FileSize": 114698,
+            "Encrypted": false,
+            "Tags": [],
+            "DependIDs": []
+        },
+        {
+            "BundleName": "assets_game_art_1_12.bundle",
+            "UnityCRC": 0,
+            "FileHash": "2afcec41c64054ab6ab74bd4a566c94b",
+            "FileCRC": "00000000",
+            "FileSize": 114698,
+            "Encrypted": false,
+            "Tags": [],
+            "DependIDs": []
+        },
+        {
+            "BundleName": "assets_game_art_2.bundle",
+            "UnityCRC": 0,
+            "FileHash": "43b54d129d6f8cdaed66ab257e632228",
+            "FileCRC": "00000000",
+            "FileSize": 114698,
+            "Encrypted": false,
+            "Tags": [],
+            "DependIDs": []
+        },
+        {
+            "BundleName": "assets_game_art_3_3.bundle",
+            "UnityCRC": 0,
+            "FileHash": "17fafd8d64c99776a1ea01d4141cf5bb",
+            "FileCRC": "00000000",
+            "FileSize": 114698,
+            "Encrypted": false,
+            "Tags": [],
+            "DependIDs": []
+        },
+        {
+            "BundleName": "assets_hotdlls.bundle",
+            "UnityCRC": 0,
+            "FileHash": "bdb8f89bf2d04325df6cd0da1aa5e65b",
+            "FileCRC": "00000000",
+            "FileSize": 134656,
+            "Encrypted": false,
+            "Tags": [],
+            "DependIDs": []
+        }
+    ]
+}

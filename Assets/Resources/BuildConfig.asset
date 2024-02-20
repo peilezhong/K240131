@@ -1,0 +1,50 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 716febccb9fea61499d53484386e9284, type: 3}
+  m_Name: BuildConfig
+  m_EditorClassIdentifier: 
+  Scenes: []
+  Target: 19
+  TargetGroup: 1
+  OutputPath: D:/ws/K240131/Client/BuildOutput
+  ScriptCompilationOptions: 0
+  AppVersion: 5
+  Options: 262144
+  YooAssetBuildOutputRoot: D:/ws/K240131/Client/Bundles
+  YooAssetBuildinFileRoot: D:/ws/K240131/Client/Assets/StreamingAssets/Bundles
+  YooAssetBuildPipeline: 0
+  YooAssetBuildMode: 0
+  YooAssetPackageName: DefaultPackage
+  YooAssetPackageVersion: 5
+  YooAssetVerifyBuildingResult: 1
+  YooAssetFileNameStyle: 1
+  YooAssetBuildinFileCopyOption: 1
+  YooAssetBuildinFileCopyParams: 
+  YooAssetCompressOption: 2
+  enable: 1
+  useGlobalIl2cpp: 0
+  hybridclrRepoURL: https://gitee.com/focus-creative-games/hybridclr
+  il2cppPlusRepoURL: https://gitee.com/focus-creative-games/il2cpp_plus
+  hybridclrBuildinFileCopy: D:/ws/K240131/Client/Assets/HotDlls
+  hotUpdateAssemblyDefinitions:
+  - {fileID: 5897886265953266890, guid: 1f5f25c55ec7d244cbca8e85f2ea21de, type: 3}
+  - {fileID: 5897886265953266890, guid: 866b3cfb69563d24fadc0bef60bc2171, type: 3}
+  hotUpdateAssemblies: []
+  preserveHotUpdateAssemblies: []
+  hotUpdateDllCompileOutputRootDir: HybridCLRData/HotUpdateDlls
+  externalHotUpdateAssembliyDirs: []
+  strippedAOTDllOutputRootDir: HybridCLRData/AssembliesPostIl2CppStrip
+  patchAOTAssemblies: []
+  outputLinkFile: HybridCLRGenerate/link.xml
+  outputAOTGenericReferenceFile: HybridCLRGenerate/AOTGenericReferences.cs
+  maxGenericReferenceIteration: 10
+  maxMethodBridgeGenericIteration: 10

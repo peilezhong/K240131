@@ -1,0 +1,21 @@
+ManifestFileVersion: 0
+CRC: 2632766055
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 779f6e0e21c4ae7e363572e650c4f75f
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 5ad585dd02dfb5016c0dad519eab8f49
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 779f6e0e21c4ae7e363572e650c4f75f
+HashAppended: 0
+ClassTypes:
+- Class: 49
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/HotDlls/Client.Sunflower.dll.bytes
+- Assets/HotDlls/Client.Game.dll.bytes
+Dependencies: []
